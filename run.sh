@@ -1,2 +1,2 @@
 #!/bin/bash
-mvn package exec:java -Dmaven.test.skip
+mvn clean package exec:java -Dmaven.test.skip
